@@ -32,7 +32,7 @@ A robust, interactive, and customizable password generator tool built with C# fo
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/duranozcelk/PasswordGenerator.git](https://github.com/duranozcelk/PasswordGenerator.git)
+    git clone https://github.com/duranozcelk/PasswordGenerator.git
     ```
 2.  **Navigate to the directory**
     ```bash
@@ -61,7 +61,7 @@ C# ile komut satırı için geliştirilmiş sağlam, etkileşimli ve özelleşti
 
 1.  **Projeyi indirin**
     ```bash
-    git clone [https://github.com/duranozcelk/PasswordGenerator.git](https://github.com/duranozcelk/PasswordGenerator.git)
+    git clone https://github.com/duranozcelk/PasswordGenerator.git
     ```
 2.  **Klasöre gidin**
     ```bash
